@@ -273,4 +273,4 @@ Use the search box in the sidebar, let's say "spider-man", to get the correspond
 
 Please use [Google Chrome](https://www.google.com/chrome/) and allow 10 seconds to let it load dataset. https://moorchen.shinyapps.io/tag-based
 
-The full code is on [GitHub](https://github.com/moorchen/tag-based-recommendation). I removed dataset because GitHub don't allow that big size. So if you want to run the code, please download the dataset and put them into the "www" folder.
+The full code is on [GitHub](https://github.com/moorchen/tag-based-recommendation). I removed dataset because GitHub don't allow that big size. So if you want to run the code, please download the dataset and put them into the "www" folder. Also, you need to [buy an API from omdb](http://www.omdbapi.com/) to get all those posters.
